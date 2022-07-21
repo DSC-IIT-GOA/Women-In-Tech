@@ -1,5 +1,10 @@
 # Women In Tech
+
+![DSC IIT Goa Logo Chapter Lockup Centered Full](https://user-images.githubusercontent.com/73928744/180194605-545b0b08-af9a-4849-ba21-7577a4596748.png)
+
+
 Heyy there tech enthusiasts!
+
 This repository is meant to keep you updated with the opportunities for scholarships,internship and job opportunities exclusively for girls.
 ##
 ## Ongoing:
