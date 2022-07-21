@@ -2,40 +2,9 @@
 
 ![DSC IIT Goa Logo Chapter Lockup Centered Full](https://user-images.githubusercontent.com/73928744/180194605-545b0b08-af9a-4849-ba21-7577a4596748.png)
 
-
 Heyy there tech enthusiasts!
 
 This repository is meant to keep you updated with the opportunities for scholarships,internship and job opportunities exclusively for girls.
-##
-## Ongoing:
-All the ongoing programs will appear here along with the time-line for respective process.
-
-1. Nutanix Heart Women In Technology Scholarship.
-Batches Eligible : 2021/22/23/24 females
-Scholarship Amount: $2000
-Application Dates : Going On Currently.
-Application Link :https://www.nutanix.com/scholarships
-
-2.Grace Hopper Celebration Student Scholarship
-Batches Eligible : 2022/23/24 females
-Scholarship Amount: Sponsored 3 day Trip to USA to attend GHC + Career Opportunities at Tech giants.
-Application Dates : Going On Currently.
-Application Link and Details : https://ghc.anitab.org/attend/academics/
-
-## Opening Soon
-1.Women Techmakers Engineering Fellows
-Batches Eligible : 2023/24 Females
-Scholarship Amount : Rs.2,00,000.+Sponsored Trips to Google Office.
-More details : https://wtef.talentsprint.com/
-[Not Yet Open for This Year , Will Open in February Tentatively]
-
-2.D.E.Shaw Ascend Fellowship
-Batches Eligible : 2023 Females
-Scholarship Amount : Rs.10,000 for 3 days.
-[Not Yet Open , Will be in the Starting of Odd Semester '21]
-
-
-
 
 ## List of programmes
 ### Google:
