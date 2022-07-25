@@ -1,6 +1,7 @@
 # Women In Tech
-
-![DSC IIT Goa Logo Chapter Lockup Centered Full](https://user-images.githubusercontent.com/73928744/180194605-545b0b08-af9a-4849-ba21-7577a4596748.png)
+<p align="center">
+<img align="center" width="400" src="https://user-images.githubusercontent.com/73928744/180194605-545b0b08-af9a-4849-ba21-7577a4596748.png" alt="GDSC IIT Goa Logo Chapter Lockup Centered Full"/>
+</p>
 
 Heyy there tech enthusiasts!
 
